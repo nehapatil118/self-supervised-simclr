@@ -44,6 +44,3 @@ Dataset usage follows CIFAR-10 licensing terms.
 Neha Patil
 
 Thank you
-Neha Patil
-
-Thank you
